@@ -124,5 +124,5 @@
 import styles from "../styles/variables.module.scss"
 
 export default function Home(){
-  return <h1 className={styles.myclass}>hellow world</h1>
+  return <h1 className={styles.myclass}>hellow world Next js</h1>
 }
